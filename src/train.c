@@ -3,7 +3,7 @@
 #include <stdlib.h>
 #include "../include/train.h"
 
-//Добавлен комментарий для шага 19
+//Добавлен комментарий для шага 19(ещё раз)
 void print_train_info(const TRAIN* train) {
     if (train == NULL) return;
     printf("----------------------------------------\n");
