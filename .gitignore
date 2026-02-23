@@ -1,0 +1,5 @@
+# Object files
+obj/
+
+# Executable
+train_app
